@@ -1,1 +1,5 @@
 passwords.txt
+*.key
+
+main_gui.py
+test.py
